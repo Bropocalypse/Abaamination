@@ -1,6 +1,6 @@
 //,.-'`*`'-..,Abaamination 
 //globals
-//did this actually change in the other branch?
+
 //
 var game = new Phaser.Game(1280, 720, Phaser.AUTO, "");
 
